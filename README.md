@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AmmaarIftikhar, I am currently a Undergraduate student at Computer Engineering department, Bilkent University.
-- 👀 I’m interested in Algorithms and Data Structures.
+- 👋 Hi, I’m @AmmaarIftikhar, I am currently a postgraduate at USYD. I completed my undergraduate studies from Computer Engineering department, Bilkent University.
+- 👀 I’m interested in Algorithms, Information Theory, and Machine Learning.
 - 🌱 Django, Spring Boot, and Algorithms
 
 
